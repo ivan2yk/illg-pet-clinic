@@ -1,4 +1,4 @@
-package com.acme.illgpetclinic;
+package com.acme.illgpetclinic.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

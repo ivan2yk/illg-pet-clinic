@@ -1,4 +1,4 @@
-package com.acme.illgpetclinic.entities;
+package com.acme.illgpetclinic.model;
 
 /**
  * Created by Ivan on 28/10/2018.

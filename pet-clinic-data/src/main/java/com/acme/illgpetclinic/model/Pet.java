@@ -1,4 +1,4 @@
-package com.acme.illgpetclinic.entities;
+package com.acme.illgpetclinic.model;
 
 import java.time.LocalDate;
 
