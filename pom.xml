@@ -52,7 +52,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:ivan2yk/illg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:ssh://git@github.com:ivan2yk/illg-pet-clinic.git</developerConnection>
     </scm>
 
 </project>
